@@ -1,5 +1,4 @@
 # Movie_mafia
-I developed this wesbite by watching youtube video
 In the project directory, you can run:
 
 ### `npm start`
